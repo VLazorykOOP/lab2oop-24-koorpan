@@ -9,12 +9,12 @@ void MenuTask()
 {
     setlocale(LC_CTYPE, "Ukr");
     cout << "     Menu Task   \n";
-    cout << "    1.  Calculation of expressions using bitwise operations  \n";
-    cout << "    2.  Data encryption using bitwise operations \n";
-    cout << "    3.  Data encryption using structures with bit fields \n";
-    cout << "    4.  The problem of using bitwise operations \n";
-    cout << "    5.  Examples of problems using bitwise operations \n";
-    cout << "    6.  Exit \n";
+    cout << "    1.  Завдання 1  \n";
+    cout << "    2.  Завдання 2(Дані виводяться в файл C:\Users\Віталій\source\repos\lab2oop-24-koorpan\OOPLab2Tpl) \n";
+    cout << "    3.  Завдання 3(Відсутнє) \n";
+    cout << "    4.  Завдання 4 \n";
+    cout << "    5.  Приклади \n";
+    cout << "    6.  Вийти \n";
 }
 
 void task1() {
